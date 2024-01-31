@@ -1,0 +1,262 @@
+[
+    {
+      "id": 1,
+      "title": "Basic-and-Clinical-Pharmacology",
+      "author": "Bertram G. Katzung, MD, PhD",
+      "description": "Description 1",
+      "imageUrl": "/book-covers/pharmacology/basic-and-clinical-pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1ZuwioK1DysiXqDkvixSVfPzWfodiAzc7/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 2,
+      "title": "Clinical Pharmacology Made Incredibly Easy",
+      "author": "Wolters Kluwer",
+      "description": "Description 1",
+      "imageUrl": "/book-covers/pharmacology/Clinical-pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/16vW9d6LamP3dfHI0gFcSoiPVXUKX2iGp/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 3,
+      "title": "Goodman & Gilmans The Pharmacological Basis of THERAPEUTICS",
+      "author": "Goodman & Gilmans",
+      "description": "Description 1",
+      "imageUrl": "/book-covers/pharmacology/goodman-and-gilman.png",
+      "pdfUrl": "https://drive.google.com/file/d/1Z9qtAYtHnDI-_e-zeqAS3A14WHR7gkhU/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 4,
+      "title": "KAPLAN medical Pharmacology",
+      "author": "Lionel P.Rayman, Pharm.D., Ph.D.",
+      "description": "Description 1",
+      "imageUrl": "/book-covers/pharmacology/usmle-pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1C4QziXjiqxOoSuUccuN9YOgWyCYb2NjT/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 5,
+      "title": "Lippincott Illustrated Pharmacology",
+      "author": "Lippincott",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmacology/Lippincott-pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1hcfgZloOpf2-SnmVoiGfJ5M2tU9Ny31K/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 6,
+      "title": "essentials of human physiology and pharmacy",
+      "author": "LAURIE KELLY",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmacology/essentials-of-human-physiology-and-pharmacy.png",
+      "pdfUrl": "https://drive.google.com/file/d/1PyhCR37zmFMF2sCectpfVdv4mHMnlrIg/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 7,
+      "title": "Rang and Dale`s Pharmacology ",
+      "author": " M M Dale and Dennis G Haylett",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmacology/Rang-and-Dale-pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1Ip4DuyVio_hboiox_Ym31y95cTHnUdWX/view?usp=drive_link",
+      "category": "Pharmacology"
+    },
+    {
+      "id": 9,
+      "title": "Advanced Inorganic Chemistry",
+      "author": " F. Albert Cotton",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/Advanced-Inorganic-Chemistry.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 10,
+      "title": "Chemistry for Pharmacy Students General, Organic and Natural Product Chemistry",
+      "author": " Satyajit D. Sarker",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/chemistry-for-pharmacy-students.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 11,
+      "title": "Chemistry LR",
+      "author": " OpenStax College",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/Chemistry-LR.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 12,
+      "title": "General-Chemistry-Principles-Patterns-and-Applications",
+      "author": " The Saylor Foundation",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/General-Chemistry-Principles-Patterns-and-Applications.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 13,
+      "title": "GENERAL CHEMISTRY The Essential Concepts",
+      "author": " Raymond CHANG Williams college",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/General-Chemistry.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 14,
+      "title": "Exam Survival Guide: Physical Chemistry",
+      "author": "Jochen Vogt",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/physical-chemistry.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 15,
+      "title": "Principles of Polymer Chemistry",
+      "author": " A. Ravvey",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/chemistry/polymer-chemistry.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Chemistry"
+    },
+    
+    {
+      "id": 16,
+      "title": "Essentials of Pharmaceutics",
+      "author": " Edited by Linda A. Feltont",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmaceutics/essentials-of-pharmaceutics.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Pharmaceutical"
+    },
+    
+    {
+      "id": 17,
+      "title": "Essentials of Pharmaceutics",
+      "author": " Edited by Linda A. Feltont",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmaceutics/essentials-of-pharmaceutics.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Pharmaceutical"
+    },
+    
+    {
+      "id": 18,
+      "title": "Pharmaceutics Basic Principles and Application to Pharmacy Practice",
+      "author": " ALEKHA K. DASH",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmaceutics/pharmaceutics.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Pharmaceutical"
+    },
+    
+    {
+      "id": 19,
+      "title": "pharmacy calculations for pharmacy technicians",
+      "author": "Bradley J. Wojcik",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/pharmaceutics/pharmacy-calculations-for-pharmacy-technicians.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Pharmaceutical"
+    },
+    
+    {
+      "id": 20,
+      "title": "FUNDAMENTALS OF PHARMACOGNOSY ANDPHYTOTHERAPY",
+      "author": " Michael Heinricht",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/herbal/Fundamentals-of-Pharmacognosy-and-Phytotherapy.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Herbal"
+    },
+    
+    {
+      "id": 21,
+      "title": "Trease and Evans Pharmacognosy",
+      "author": " William Charles Evans",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/herbal/Trease-and-Evans-Pharmacognosy.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Herbal"
+    },
+    
+    {
+      "id": 22,
+      "title": "First Aid for the® Emergency Medicine Boards, Third Edition",
+      "author": " BARBARA K. BLOK, MD",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/first-aid/First-Aid-for-the-Emergency-Medicine-Board.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Firstaid"
+    },
+    
+    {
+      "id": 23,
+      "title": "Case Studies in Medical Toxicology",
+      "author": " Leslie R. Dye  •  Christine Murphy Diane P. Calello  •  Michael D. Levine Aaron Skolnik",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/toxicology/Medical-Toxicology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Toxicology"
+    },
+    {
+      "id": 24,
+      "title": "Molecular, Clinical and Environmental Toxicology Volume 2: Clinical Toxicology",
+      "author": " Andreas Luch",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/toxicology/Molecular-Clinical-and-Environmental-Toxicology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Toxicology"
+    },
+    {
+      "id": 25,
+      "title": "pharmacology toxicology",
+      "author": " Hannah L. Hays, MD",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/toxicology/pharmacology-toxicology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Toxicology"
+    },
+    {
+      "id": 26,
+      "title": "The Basic Science of Poisons",
+      "author": " Curtis D. Klaassen, Ph.D.Univers",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/toxicology/The-Basic-Science-of-Poisons.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Toxicology"
+    },
+    {
+      "id": 27,
+      "title": "Timothy S. Tracy, PhD",
+      "author": " Professor Peter Henry",
+      "description": "Description 2",
+      "imageUrl": "/book-covers/toxicology/Toxicology-and-clinical-pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "Toxicology"
+    },
+    {
+      "id": 28,
+      "title": "respiratory pharmacology",
+      "author": " Professor Peter Henry",
+      "description": "Description 2",
+      "imageUrl": "/my-books/pharmacology/Respiratory-Pharmacology.png",
+      "pdfUrl": "https://drive.google.com/file/d/1KWLHnxxT-ddroxC1XeHpuR-XlKlw_792/view?usp=drive_link",
+      "category": "others"
+    }
+    
+    
+  ]
+  
