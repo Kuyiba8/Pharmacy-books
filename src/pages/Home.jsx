@@ -33,7 +33,7 @@ function Home() {
     <div className='w-full h-full'>
               <h1 className='text-center text-2xl mt-10'>Categories</h1>
       <div className=' mx-auto my-10'>
-      <div className='grid grid-cols-2 md:grid-cols-3 gap-4 '>
+      <div className='grid grid-cols-2 md:grid-cols-3 gap-1 '>
       <Category categoryName="Pharmacology" />
       <Category categoryName="Pharmaceutical" />
       <Category categoryName="Chemistry" />

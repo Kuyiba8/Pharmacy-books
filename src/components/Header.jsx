@@ -23,7 +23,7 @@ const Header = () => {
   return (
     <div className="h-56 w-4/5 mx-auto rounded-xl bg-gradient-to-b from-blue-300 to-green-400 items-center flex justify-center">
       <div className="w-4/5 md:flex md:justify-evenly ">
-        <div className="flex flex-col justify-center text-center md:mt-4 md:pt-6">
+        <div className="flex flex-col justify-center text-center  md:pt-6">
           <Marquee>
           <h3 className="p-2 text-center uppercase">Welcome to kuyant pharmacourse</h3>
           </Marquee>

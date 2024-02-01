@@ -3,7 +3,7 @@ import React from 'react';
 
 function Book({ title, author, description, imageUrl, pdfUrl }) {
   return (
-    <div className='flex flex-col justify-center m-6'>
+    <div className='flex flex-col justify-center m-4'>
       <img 
          src={imageUrl} 
          alt={title} 

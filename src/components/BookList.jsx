@@ -10,7 +10,7 @@ function BookList({books}) {
 
   return (
     <div className='max-w-5xl sm:w-5/6 mx-auto'>
-      <div className='grid grid-cols-2 md:grid-cols-3 gap-4'>
+      <div className='grid grid-cols-2 md:grid-cols-3 gap-1'>
       {books.map(book => (
         <Book
           key={book.id}

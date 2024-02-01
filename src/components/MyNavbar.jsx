@@ -28,18 +28,18 @@ const MyNavbar = () => {
   };
 
   return (
-    <Navbar onMenuOpenChange={setIsMenuOpen}>
-      <NavbarContent>
+    <Navbar onMenuOpenChange={setIsMenuOpen} className="">
+      <NavbarContent justify="start">
         <NavbarMenuToggle
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
-          className=""
+          className="w-2"
         />
-        <NavbarBrand>
+        <NavbarBrand className="">
           <p className="font-bold text-inherit text-green-800">KUYANT <br /> <em className="text-[10px]">PHARMA</em></p>
         </NavbarBrand>
       </NavbarContent>
 
-      <NavbarContent className=" sm:flex gap-1" justify="center">
+      <NavbarContent className="w-10 sm:flex gap-1" justify="center">
       <NavbarItem isActive>
           <Link href="/" aria-current="page" color="success">
             Home
@@ -80,18 +80,18 @@ const MyNavbar = () => {
             </DropdownItem>
           </DropdownMenu>
         </Dropdown>
-        <NavbarItem>
+        {/* <NavbarItem>
           <Link color="foreground" href="#">
             Blogs
           </Link>
-        </NavbarItem>
+        </NavbarItem> */}
       </NavbarContent>
-      <NavbarContent justify="end">
-        <NavbarItem className="hidden md:flex">
+      <NavbarContent className="w-2" justify="end">
+        {/* <NavbarItem className="hidden md:flex">
           <Link href="#" color="success">Login</Link>
-        </NavbarItem>
-        <NavbarItem>
-          <Button as={Link} color="success" href="#" variant="flat">
+        </NavbarItem> */}
+        <NavbarItem className="">
+          <Button as={Link} color="success" href="#" variant="flat" className="">
             Portfolio 
           </Button>
         </NavbarItem>
