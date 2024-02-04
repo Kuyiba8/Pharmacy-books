@@ -39,7 +39,7 @@ function Home() {
       <Category categoryName="Chemistry" />
       <Category categoryName="Toxicology" />
       <Category categoryName="Herbal" />
-      <Category categoryName="Firstaid" />
+      <Category categoryName="First Aid" />
       <Category categoryName="Medical" />
       <Category categoryName="Others" />
        {/* Add more categories as needed */}
