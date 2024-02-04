@@ -34,13 +34,13 @@ const MyNavbar = () => {
           aria-label={isMenuOpen ? "Close menu" : "Open menu"}
           className="w-2"
         />
-        <NavbarBrand className="">
-          <p className="font-bold text-inherit text-green-800">KUYANT <br /> <em className="text-[10px]">PHARMA</em></p>
+        <NavbarBrand className="text-sm sm:text-md">
+          <p className="font-bold text-inherit text-green-800">KUYANT <br /><em className="text-[10px]">PHARMA</em></p>
         </NavbarBrand>
       </NavbarContent>
 
       <NavbarContent className="w-10 sm:flex gap-1" justify="center">
-      <NavbarItem isActive>
+      <NavbarItem isActive className="hidden sm:flex">
           <Link href="/" aria-current="page" color="success">
             Home
           </Link>
@@ -63,6 +63,11 @@ const MyNavbar = () => {
             aria-label="ACME features"
             className="w-[340px] text-center p-6"
           >
+            <DropdownItem>
+            <Link color="success" href="/" className="sm:hidden">
+            Home
+          </Link>
+            </DropdownItem>
             <DropdownItem>
             <Link color="success" href="/category/Chemistry" className="p-2">
             Chemistry Books
@@ -87,11 +92,11 @@ const MyNavbar = () => {
         </NavbarItem> */}
       </NavbarContent>
       <NavbarContent className="w-2" justify="end">
-        {/* <NavbarItem className="hidden md:flex">
-          <Link href="#" color="success">Login</Link>
-        </NavbarItem> */}
+        <NavbarItem className=" flex">
+          <Link href="/about" color="success">About</Link>
+        </NavbarItem>
         <NavbarItem className="">
-          <Button as={Link} color="success" href="#" variant="flat" className="">
+          <Button as={Link} color="success" href="https://kuyiba-portfolio.netlify.app" variant="flat" className="">
             Portfolio 
           </Button>
         </NavbarItem>
