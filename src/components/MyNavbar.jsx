@@ -19,7 +19,7 @@ const MyNavbar = () => {
     "My Settings",
     "Team Settings",
     "Help & Feedback",
-    "Log Out",
+    "About",
   ];
 
   
@@ -63,11 +63,12 @@ const MyNavbar = () => {
             aria-label="ACME features"
             className="w-[340px] text-center p-6"
           >
-            <DropdownItem>
+            <DropdownItem >
             <Link color="success" href="/" className="sm:hidden">
             Home
           </Link>
             </DropdownItem>
+           
             <DropdownItem>
             <Link color="success" href="/category/Chemistry" className="p-2">
             Chemistry Books
@@ -92,7 +93,7 @@ const MyNavbar = () => {
         </NavbarItem> */}
       </NavbarContent>
       <NavbarContent className="w-2" justify="end">
-        <NavbarItem className=" flex">
+        <NavbarItem className="hidden sm:flex">
           <Link href="/about" color="success">About</Link>
         </NavbarItem>
         <NavbarItem className="">
